@@ -1,0 +1,19 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A project with necessary npm packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "user-agents": "^1.0.0",
+    "cloudscraper": "^4.6.0",
+    "axios": "^1.5.0",
+    "colors": "^1.4.0",
+    "p-limit": "^4.0.0",
+    "https-proxy-agent": "^5.0.0"
+  }
+}
